@@ -24,9 +24,4 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,git">
 </a>
-<hr/>
 </div>
-
----
-
-[![](https://komarev.com/ghpvc/?username=nathtwenty3&icon=0&color=0)](https://visitcount.itsvg.in)
